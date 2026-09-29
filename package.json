@@ -43,7 +43,7 @@
     "supererror": "^0.7.1",
     "tar-fs": "^1.13.2",
     "twemoji": "^1.4.1",
-    "uuid": "^2.0.1"
+    "uuid": "^14.0.2"
   },
   "devDependencies": {
     "del": "^2.2.0",
